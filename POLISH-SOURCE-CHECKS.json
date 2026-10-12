@@ -1,0 +1,56 @@
+{
+  "version": 8,
+  "date": "2026-10-12",
+  "passed": true,
+  "pages": [
+    {
+      "file": "brand.html",
+      "h1": 1,
+      "localRefsResolved": true,
+      "imagesHaveAltAndIntrinsicSize": true,
+      "visibleContentUnchanged": true
+    },
+    {
+      "file": "collection.html",
+      "h1": 1,
+      "localRefsResolved": true,
+      "imagesHaveAltAndIntrinsicSize": true,
+      "visibleContentUnchanged": true
+    },
+    {
+      "file": "index.html",
+      "h1": 1,
+      "localRefsResolved": true,
+      "imagesHaveAltAndIntrinsicSize": true,
+      "visibleContentUnchanged": true
+    },
+    {
+      "file": "lookbook.html",
+      "h1": 1,
+      "localRefsResolved": true,
+      "imagesHaveAltAndIntrinsicSize": true,
+      "visibleContentUnchanged": true
+    },
+    {
+      "file": "store.html",
+      "h1": 1,
+      "localRefsResolved": true,
+      "imagesHaveAltAndIntrinsicSize": true,
+      "visibleContentUnchanged": true
+    }
+  ],
+  "packagedAssetsByteUnchanged": 34,
+  "appJSUnchanged": true,
+  "productDataUnchanged": true,
+  "logoUnchanged": true,
+  "backup": "work/final-polish-v8-before",
+  "git": {
+    "repository": false,
+    "branch": null,
+    "commit": false,
+    "push": false,
+    "PR": false,
+    "merge": false,
+    "deployment": false
+  }
+}

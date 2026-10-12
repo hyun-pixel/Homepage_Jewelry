@@ -1,0 +1,14 @@
+* text=auto
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.svg text eol=lf
+*.webp binary
+*.mp4 binary
+*.woff2 binary
+
+# Preserve third-party license text as supplied, including upstream whitespace.
+dist/assets/licenses/* -whitespace

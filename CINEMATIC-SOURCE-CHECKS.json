@@ -1,0 +1,787 @@
+{
+  "version": 7,
+  "date": "2026-10-10",
+  "pages": [
+    {
+      "file": "brand.html",
+      "h1": 1,
+      "brokenLocalRefs": []
+    },
+    {
+      "file": "collection.html",
+      "h1": 1,
+      "brokenLocalRefs": []
+    },
+    {
+      "file": "index.html",
+      "h1": 1,
+      "brokenLocalRefs": []
+    },
+    {
+      "file": "lookbook.html",
+      "h1": 1,
+      "brokenLocalRefs": []
+    },
+    {
+      "file": "store.html",
+      "h1": 1,
+      "brokenLocalRefs": []
+    }
+  ],
+  "images": [
+    {
+      "file": "brand.html",
+      "image": "assets/hero-poster.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "brand.html",
+      "image": "assets/ring-06.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "brand.html",
+      "image": "assets/bracelet-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "brand.html",
+      "image": "assets/ring-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "brand.html",
+      "image": "assets/ring-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/ring-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/ring-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/ring-03.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/ring-04.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/ring-05.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/ring-06.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/necklace-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/necklace-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/necklace-03.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/necklace-04.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/necklace-05.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/necklace-06.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/earrings-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/earrings-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/earrings-03.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/earrings-04.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/earrings-05.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/earrings-06.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/bracelet-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/bracelet-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/bracelet-03.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/bracelet-04.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/bracelet-05.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/bracelet-06.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/ring-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "collection.html",
+      "image": "assets/ring-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/hero-poster.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/ring-06.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/ring-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/necklace-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/earrings-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/bracelet-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/lookbook-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/showroom.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/ring-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "index.html",
+      "image": "assets/ring-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "lookbook.html",
+      "image": "assets/lookbook-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "lookbook.html",
+      "image": "assets/lookbook-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "lookbook.html",
+      "image": "assets/ring-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "lookbook.html",
+      "image": "assets/ring-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "store.html",
+      "image": "assets/showroom.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "store.html",
+      "image": "assets/ring-02.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    },
+    {
+      "file": "store.html",
+      "image": "assets/ring-01.webp",
+      "altPresent": true,
+      "intrinsicSizePresent": true
+    }
+  ],
+  "rasterProvenanceAndPixelPreservation": [
+    {
+      "file": "bracelet-01.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-01.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-02.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-02.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-03.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-03.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-04.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-04.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-05.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-05.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-06.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "bracelet-06.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-01.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-01.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-02.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-02.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-03.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-03.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-04.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-04.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-05.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-05.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-06.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "earrings-06.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "hero-poster.png",
+      "size": [
+        1672,
+        941
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "hero-poster.webp",
+      "size": [
+        1672,
+        941
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "lookbook-01.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "lookbook-01.webp",
+      "size": [
+        1122,
+        1402
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "lookbook-02.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "lookbook-02.webp",
+      "size": [
+        1122,
+        1402
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-01.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-01.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-02.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-02.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-03.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-03.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-04.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-04.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-05.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-05.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-06.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "necklace-06.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-01.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-01.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-02.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-02.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-03.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-03.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-04.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-04.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-05.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-05.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-06.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "ring-06.webp",
+      "size": [
+        1254,
+        1254
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "showroom.png",
+      "size": [
+        1672,
+        941
+      ],
+      "pixelsUnchanged": true
+    },
+    {
+      "file": "showroom.webp",
+      "size": [
+        1672,
+        941
+      ],
+      "pixelsUnchanged": true
+    }
+  ],
+  "fontRefs": [
+    "assets/fivegold-screen-v7.woff2",
+    "assets/fivegold-film-v7.woff2"
+  ],
+  "fontsExist": true,
+  "originalHeroSha256": "bac247318bf2884b83ad82d1f8e75b163194982a4626b8b8a72549539d743362",
+  "originalHeroUnchanged": true,
+  "productDataUnchanged": true,
+  "provenanceScan": {
+    "tool": "impeccable embed-prompt --scan",
+    "rasters": 56,
+    "missing": 0,
+    "note": "CLI-specific embedded prompt metadata, not Pillow info keys"
+  },
+  "draftPriceContext": true,
+  "passed": true
+}

@@ -1,0 +1,63 @@
+{
+  "version": 7,
+  "date": "2026-10-10",
+  "direction": "Cinematic luxury",
+  "buildPath": "code",
+  "fonts": [
+    {
+      "file": "assets/fivegold-screen-v7.woff2",
+      "family": "Fivegold Screen",
+      "weight": "400–1000",
+      "bytes": 1226056
+    },
+    {
+      "file": "assets/fivegold-film-v7.woff2",
+      "family": "Fivegold Film",
+      "weight": "200–800",
+      "bytes": 16172
+    }
+  ],
+  "wantedSources": {
+    "font": "https://raw.githubusercontent.com/wanteddev/wanted-sans/main/packages/wanted-sans/fonts/webfonts/variable/complete/woff2/WantedSansVariable.woff2",
+    "license": "https://raw.githubusercontent.com/wanteddev/wanted-sans/main/OFL.txt",
+    "officialDocumentation": "https://github.com/wanteddev/wanted-sans/blob/main/packages/wanted-sans/README.md"
+  },
+  "imageGeneration": false,
+  "paidGeneration": false,
+  "cost": 0,
+  "originalVideoPreserved": true,
+  "backup": "work/cinematic-v7-before",
+  "finalQA": {
+    "passed": true,
+    "layoutConditions": 47,
+    "axeRuns": 12,
+    "consoleErrors": 0,
+    "functionalGroups": 9
+  },
+  "sourceChecksPassed": true,
+  "pixelPreservedRasters": 56,
+  "provenanceScanMissing": 0,
+  "draftPriceContext": true,
+  "git": {
+    "repository": false,
+    "branch": null,
+    "commit": false,
+    "push": false,
+    "pullRequest": false,
+    "merge": false,
+    "deployment": false
+  },
+  "finishReview": {
+    "initialDisposition": "fix",
+    "firstVerdict": "fix",
+    "finalDisposition": "ship",
+    "scope": "Six scored material fixes resolved",
+    "remaining": "clear"
+  },
+  "documentation": {
+    "design": "DESIGN.md",
+    "sidecar": "design.json",
+    "schemaVersion": 2,
+    "settledRevealSafeInset": "-.25em"
+  }
+}

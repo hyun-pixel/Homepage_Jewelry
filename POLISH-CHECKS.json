@@ -1,0 +1,5023 @@
+{
+  "version": 8,
+  "date": "2026-10-12",
+  "errors": [],
+  "layouts": [
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은 금빛.",
+            "파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은",
+            "금빛. 파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 360,
+      "height": 844,
+      "docWidth": 360,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은",
+            "금빛. 파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은 금빛. 파이브골드는",
+            "주얼리의 디테일에서 아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감. 파이브골드의",
+            "공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 430,
+      "height": 844,
+      "docWidth": 430,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은 금빛.",
+            "파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The",
+            "collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을",
+            "만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의",
+            "빛과 질감. 파이브골드의",
+            "공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은",
+            "금빛. 파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은",
+            "금빛. 파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은",
+            "금빛. 파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은",
+            "금빛. 파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은",
+            "금빛. 파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은",
+            "금빛. 파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가",
+            "바라보는 주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라",
+            "달라지는 광택. 주얼리의 아름다움은 그 작은",
+            "차이에서 시작됩니다. 파이브골드는 옐로",
+            "골드의 따뜻한 빛과 정돈된 조형을 중심으로",
+            "다양한 디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가",
+            "바라보는 주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는",
+            "광택. 주얼리의 아름다움은 그 작은 차이에서",
+            "시작됩니다. 파이브골드는 옐로 골드의",
+            "따뜻한 빛과 정돈된 조형을 중심으로 다양한",
+            "디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 360,
+      "height": 844,
+      "docWidth": 360,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가 바라보는",
+            "주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는 광택.",
+            "주얼리의 아름다움은 그 작은 차이에서 시작됩니다.",
+            "파이브골드는 옐로 골드의 따뜻한 빛과 정돈된 조형을",
+            "중심으로 다양한 디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가 바라보는",
+            "주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는 광택.",
+            "주얼리의 아름다움은 그 작은 차이에서 시작됩니다.",
+            "파이브골드는 옐로 골드의 따뜻한 빛과 정돈된 조형을",
+            "중심으로 다양한 디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 430,
+      "height": 844,
+      "docWidth": 430,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가 바라보는",
+            "주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라",
+            "달라지는 광택. 주얼리의 아름다움은",
+            "그 작은 차이에서 시작됩니다.",
+            "파이브골드는 옐로 골드의 따뜻한",
+            "빛과 정돈된 조형을 중심으로 다양한",
+            "디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가 바라보는",
+            "주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는",
+            "광택. 주얼리의 아름다움은 그 작은 차이에서",
+            "시작됩니다. 파이브골드는 옐로 골드의",
+            "따뜻한 빛과 정돈된 조형을 중심으로 다양한",
+            "디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛.",
+            "파이브골드가 바라보는 주얼리의",
+            "아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는 광택.",
+            "주얼리의 아름다움은 그 작은 차이에서 시작됩니다.",
+            "파이브골드는 옐로 골드의 따뜻한 빛과 정돈된 조형을",
+            "중심으로 다양한 디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛.",
+            "파이브골드가 바라보는 주얼리의",
+            "아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는 광택.",
+            "주얼리의 아름다움은 그 작은 차이에서 시작됩니다.",
+            "파이브골드는 옐로 골드의 따뜻한 빛과 정돈된 조형을",
+            "중심으로 다양한 디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가",
+            "바라보는 주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는 광택.",
+            "주얼리의 아름다움은 그 작은 차이에서 시작됩니다.",
+            "파이브골드는 옐로 골드의 따뜻한 빛과 정돈된 조형을",
+            "중심으로 다양한 디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가",
+            "바라보는 주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는 광택.",
+            "주얼리의 아름다움은 그 작은 차이에서 시작됩니다.",
+            "파이브골드는 옐로 골드의 따뜻한 빛과 정돈된 조형을",
+            "중심으로 다양한 디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The art",
+            "of gold."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "형태와 소재, 그 사이에 머무는 빛. 파이브골드가",
+            "바라보는 주얼리의 아름다움입니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "작은 디테일에서",
+            "발견하는 깊은 빛."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "손끝에 닿는 곡선과 보는 각도에 따라 달라지는 광택.",
+            "주얼리의 아름다움은 그 작은 차이에서 시작됩니다.",
+            "파이브골드는 옐로 골드의 따뜻한 빛과 정돈된 조형을",
+            "중심으로 다양한 디자인을 소개합니다."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Find your gold."
+          ]
+        }
+      ],
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸",
+            "옐로 골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸 옐로",
+            "골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 360,
+      "height": 844,
+      "docWidth": 360,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸 옐로",
+            "골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸 옐로",
+            "골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 430,
+      "height": 844,
+      "docWidth": 430,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸 옐로 골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸 옐로 골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로",
+            "담아낸 옐로 골드의 아름다움."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "품목"
+          ]
+        }
+      ],
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸",
+            "옐로 골드의 아름다움."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "품목"
+          ]
+        }
+      ],
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸",
+            "옐로 골드의 아름다움."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "품목"
+          ]
+        }
+      ],
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸",
+            "옐로 골드의 아름다움."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "품목"
+          ]
+        }
+      ],
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸",
+            "옐로 골드의 아름다움."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "품목"
+          ]
+        }
+      ],
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다.",
+            "파이브골드의 착용 콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다.",
+            "파이브골드의 착용 콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 360,
+      "height": 844,
+      "docWidth": 360,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다.",
+            "파이브골드의 착용 콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다.",
+            "파이브골드의 착용 콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 430,
+      "height": 844,
+      "docWidth": 430,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다. 파이브골드의 착용",
+            "콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속,",
+            "당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다. 파이브골드의 착용",
+            "콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이",
+            "됩니다. 파이브골드의 착용 콘셉트",
+            "화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이",
+            "됩니다. 파이브골드의 착용 콘셉트",
+            "화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다.",
+            "파이브골드의 착용 콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다.",
+            "파이브골드의 착용 콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "입는 순간, 주얼리는 당신의 움직임이 됩니다.",
+            "파이브골드의 착용 콘셉트 화보를 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A touch of gold."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "검정의 깊이 위로 드러나는 골드의 빛."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "In your movement."
+          ]
+        },
+        {
+          "selector": "P",
+          "lines": [
+            "자연스러운 움직임 속, 당신만의 조형."
+          ]
+        },
+        {
+          "selector": "visible",
+          "lines": [
+            "Make it yours."
+          ]
+        }
+      ],
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서.",
+            "파이브골드의 쇼룸 콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게",
+            "어울리는 주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서. 파이브골드의 쇼룸",
+            "콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 360,
+      "height": 844,
+      "docWidth": 360,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서. 파이브골드의 쇼룸",
+            "콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서. 파이브골드의 쇼룸",
+            "콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 430,
+      "height": 844,
+      "docWidth": 430,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서. 파이브골드의 쇼룸",
+            "콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서. 파이브골드의 쇼룸",
+            "콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서.",
+            "파이브골드의 쇼룸 콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는",
+            "추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서.",
+            "파이브골드의 쇼룸 콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서.",
+            "파이브골드의 쇼룸 콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서.",
+            "파이브골드의 쇼룸 콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "A closer",
+            "look."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "골드의 질감과 빛을 더 가까이에서.",
+            "파이브골드의 쇼룸 콘셉트를 소개합니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "FIVEGOLD",
+            "Showroom"
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "빛과 소재를 마주하는 공간. 당신에게 어울리는",
+            "주얼리를 찾아보세요."
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "서울특별시 예시구 파이브골드로 5",
+            "1층 파이브골드 쇼룸"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "월요일–토요일 10:30–19:00",
+            "일요일 및 공휴일 휴무"
+          ]
+        },
+        {
+          "selector": "DD",
+          "lines": [
+            "실제 매장 주소와 연락처는 추후 안내합니다."
+          ]
+        }
+      ],
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection-page2",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸",
+            "옐로 골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection-page2",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸 옐로",
+            "골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection-page2",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸",
+            "옐로 골드의 아름다움."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "품목"
+          ]
+        }
+      ],
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index-small-phone",
+      "lineInventory": [
+        {
+          "selector": "H1",
+          "lines": [
+            "FIVEGOLD"
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "빛을 품은",
+            "작은 조형."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "부드러운 곡선, 섬세한 결, 그리고 깊은 금빛.",
+            "파이브골드는 주얼리의 디테일에서",
+            "아름다움을 찾습니다."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "서로 다른 형태로 담아낸 옐로 골드.",
+            "당신의 순간에 어울리는 금빛을 만나보세요."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "Gold, worn",
+            "your way."
+          ]
+        },
+        {
+          "selector": "H2",
+          "lines": [
+            "A closer look."
+          ]
+        },
+        {
+          "selector": "body-copy",
+          "lines": [
+            "더 가까이에서 만나는 주얼리의 빛과 질감.",
+            "파이브골드의 공간으로 초대합니다."
+          ]
+        }
+      ],
+      "width": 320,
+      "height": 568,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection-landscape",
+      "lineInventory": [
+        {
+          "selector": "visible",
+          "lines": [
+            "The collection."
+          ]
+        },
+        {
+          "selector": "body-copy visible",
+          "lines": [
+            "반지부터 팔찌까지, 서로 다른 형태로 담아낸 옐로 골드의 아름다움."
+          ]
+        }
+      ],
+      "width": 844,
+      "height": 390,
+      "docWidth": 844,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    }
+  ],
+  "accessibility": [
+    {
+      "page": "index",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "index",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "brand",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "brand",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "collection",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "collection",
+      "device": "mobile",
+      "state": "dialog",
+      "violations": []
+    },
+    {
+      "page": "collection",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "collection",
+      "device": "desktop",
+      "state": "dialog",
+      "violations": []
+    },
+    {
+      "page": "lookbook",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "lookbook",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "store",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "store",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    }
+  ],
+  "functional": [
+    "Both pages expose 24 products with correct list/detail prices, zoom and Escape focus restoration",
+    "Category counts, pagination reset and all-products restoration",
+    "Korean search, no-results recovery and low/high price sorting",
+    "Mobile bottom sheet, focus restoration and short-screen sticky close",
+    "Small-phone and landscape layouts",
+    "OS reduced-motion poster and visible content",
+    "JavaScript-off static fallback contains all 24 products",
+    "Direct local file opens filters and details",
+    "Store contact placeholder retained"
+  ],
+  "issues": [],
+  "captures": [
+    "outputs/polish-review-v8/final/index-mobile.png",
+    "outputs/polish-review-v8/final/index-mobile-top.png",
+    "outputs/polish-review-v8/final/home-mobile-macro.png",
+    "outputs/polish-review-v8/final/home-mobile-collection.png",
+    "outputs/polish-review-v8/final/home-mobile-wearing.png",
+    "outputs/polish-review-v8/final/menu-drawer.png",
+    "outputs/polish-review-v8/final/index-desktop.png",
+    "outputs/polish-review-v8/final/index-desktop-top.png",
+    "outputs/polish-review-v8/final/home-desktop-macro.png",
+    "outputs/polish-review-v8/final/home-desktop-collection.png",
+    "outputs/polish-review-v8/final/home-desktop-wearing.png",
+    "outputs/polish-review-v8/final/header-dropdown.png",
+    "outputs/polish-review-v8/final/brand-mobile.png",
+    "outputs/polish-review-v8/final/brand-mobile-top.png",
+    "outputs/polish-review-v8/final/brand-desktop.png",
+    "outputs/polish-review-v8/final/brand-desktop-top.png",
+    "outputs/polish-review-v8/final/collection-mobile.png",
+    "outputs/polish-review-v8/final/collection-mobile-top.png",
+    "outputs/polish-review-v8/final/product-mobile.png",
+    "outputs/polish-review-v8/final/category-bottom-sheet.png",
+    "outputs/polish-review-v8/final/collection-desktop.png",
+    "outputs/polish-review-v8/final/collection-desktop-top.png",
+    "outputs/polish-review-v8/final/product-desktop.png",
+    "outputs/polish-review-v8/final/lookbook-mobile.png",
+    "outputs/polish-review-v8/final/lookbook-mobile-top.png",
+    "outputs/polish-review-v8/final/lookbook-desktop.png",
+    "outputs/polish-review-v8/final/lookbook-desktop-top.png",
+    "outputs/polish-review-v8/final/store-mobile.png",
+    "outputs/polish-review-v8/final/store-mobile-top.png",
+    "outputs/polish-review-v8/final/store-desktop.png",
+    "outputs/polish-review-v8/final/store-desktop-top.png",
+    "outputs/polish-review-v8/final/collection-page2-320.png",
+    "outputs/polish-review-v8/final/collection-page2-390.png",
+    "outputs/polish-review-v8/final/collection-page2-1440.png",
+    "outputs/polish-review-v8/final/catalog-empty.png",
+    "outputs/polish-review-v8/final/product-mobile-long-scrolled.png",
+    "outputs/polish-review-v8/final/index-small-phone.png",
+    "outputs/polish-review-v8/final/menu-small-phone.png",
+    "outputs/polish-review-v8/final/product-landscape.png",
+    "outputs/polish-review-v8/final/store-intermediate-600.png",
+    "outputs/polish-review-v8/final/store-intermediate-960.png"
+  ],
+  "layoutIssues": [],
+  "passed": true
+}

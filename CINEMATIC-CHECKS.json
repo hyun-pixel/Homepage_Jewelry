@@ -1,0 +1,1985 @@
+{
+  "version": 7,
+  "round": 2,
+  "date": "2026-10-10",
+  "errors": [],
+  "layouts": [
+    {
+      "page": "index",
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index",
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "brand",
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection",
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "lookbook",
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 320,
+      "height": 844,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 390,
+      "height": 844,
+      "docWidth": 390,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 600,
+      "height": 844,
+      "docWidth": 600,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 768,
+      "height": 844,
+      "docWidth": 768,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 960,
+      "height": 1000,
+      "docWidth": 960,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 1024,
+      "height": 1000,
+      "docWidth": 1024,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 1280,
+      "height": 1000,
+      "docWidth": 1280,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 1440,
+      "height": 1000,
+      "docWidth": 1440,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "store",
+      "width": 1920,
+      "height": 1000,
+      "docWidth": 1920,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "index-small-phone",
+      "width": 320,
+      "height": 568,
+      "docWidth": 320,
+      "overflow": [],
+      "priceOffsets": [],
+      "images": [
+        {
+          "src": "assets/hero-poster.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/earrings-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/bracelet-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/lookbook-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/showroom.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    },
+    {
+      "page": "collection-landscape",
+      "width": 844,
+      "height": 390,
+      "docWidth": 844,
+      "overflow": [],
+      "priceOffsets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "images": [
+        {
+          "src": "assets/ring-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/ring-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-01.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-02.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-03.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-04.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-05.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        },
+        {
+          "src": "assets/necklace-06.webp",
+          "loaded": true,
+          "sizeCorrect": true
+        }
+      ],
+      "visibleReveals": true
+    }
+  ],
+  "accessibility": [
+    {
+      "page": "index",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "index",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "brand",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "brand",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "collection",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "collection",
+      "device": "mobile",
+      "state": "dialog",
+      "violations": []
+    },
+    {
+      "page": "collection",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "collection",
+      "device": "desktop",
+      "state": "dialog",
+      "violations": []
+    },
+    {
+      "page": "lookbook",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "lookbook",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "store",
+      "device": "mobile",
+      "state": "page",
+      "violations": []
+    },
+    {
+      "page": "store",
+      "device": "desktop",
+      "state": "page",
+      "violations": []
+    }
+  ],
+  "functional": [
+    "Both pages expose 24 products with correct list/detail prices, zoom and Escape focus restoration",
+    "Category counts, pagination reset and all-products restoration",
+    "Korean search, no-results recovery and low/high price sorting",
+    "Mobile bottom sheet, focus restoration and short-screen sticky close",
+    "Small-phone and landscape layouts",
+    "OS reduced-motion poster and visible content",
+    "JavaScript-off static fallback contains all 24 products",
+    "Direct local file opens filters and details",
+    "Store contact placeholder retained"
+  ],
+  "issues": [],
+  "captures": [
+    "outputs/cinematic-review/round1/index-mobile.png",
+    "outputs/cinematic-review/round1/index-mobile-top.png",
+    "outputs/cinematic-review/round1/home-mobile-macro.png",
+    "outputs/cinematic-review/round1/home-mobile-collection.png",
+    "outputs/cinematic-review/round1/home-mobile-wearing.png",
+    "outputs/cinematic-review/round1/menu-drawer.png",
+    "outputs/cinematic-review/round1/index-desktop.png",
+    "outputs/cinematic-review/round1/index-desktop-top.png",
+    "outputs/cinematic-review/round1/home-desktop-macro.png",
+    "outputs/cinematic-review/round1/home-desktop-collection.png",
+    "outputs/cinematic-review/round1/home-desktop-wearing.png",
+    "outputs/cinematic-review/round1/header-dropdown.png",
+    "outputs/cinematic-review/round1/brand-mobile.png",
+    "outputs/cinematic-review/round1/brand-mobile-top.png",
+    "outputs/cinematic-review/round1/brand-desktop.png",
+    "outputs/cinematic-review/round1/brand-desktop-top.png",
+    "outputs/cinematic-review/round1/collection-mobile.png",
+    "outputs/cinematic-review/round1/collection-mobile-top.png",
+    "outputs/cinematic-review/round1/product-mobile.png",
+    "outputs/cinematic-review/round1/category-bottom-sheet.png",
+    "outputs/cinematic-review/round1/collection-desktop.png",
+    "outputs/cinematic-review/round1/collection-desktop-top.png",
+    "outputs/cinematic-review/round1/product-desktop.png",
+    "outputs/cinematic-review/round1/lookbook-mobile.png",
+    "outputs/cinematic-review/round1/lookbook-mobile-top.png",
+    "outputs/cinematic-review/round1/lookbook-desktop.png",
+    "outputs/cinematic-review/round1/lookbook-desktop-top.png",
+    "outputs/cinematic-review/round1/store-mobile.png",
+    "outputs/cinematic-review/round1/store-mobile-top.png",
+    "outputs/cinematic-review/round1/store-desktop.png",
+    "outputs/cinematic-review/round1/store-desktop-top.png",
+    "outputs/cinematic-review/round1/catalog-empty.png",
+    "outputs/cinematic-review/round1/product-mobile-long-scrolled.png",
+    "outputs/cinematic-review/round1/index-small-phone.png",
+    "outputs/cinematic-review/round1/menu-small-phone.png",
+    "outputs/cinematic-review/round1/product-landscape.png"
+  ],
+  "layoutIssues": [],
+  "passed": true
+}

@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12",
+  "title": "Design System: FIVEGOLD",
+  "extensions": {
+    "colorMeta": {
+      "bg": {
+        "role": "neutral",
+        "displayName": "잉크",
+        "tonalRamp": [
+          "oklch(15% 0.0027 248.00)",
+          "oklch(26% 0.0027 248.00)",
+          "oklch(38% 0.0027 248.00)",
+          "oklch(49% 0.0027 248.00)",
+          "oklch(61% 0.0027 248.00)",
+          "oklch(72% 0.0027 248.00)",
+          "oklch(84% 0.0027 248.00)",
+          "oklch(95% 0.0027 248.00)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "그래파이트",
+        "tonalRamp": [
+          "oklch(15% 0.0025 247.94)",
+          "oklch(26% 0.0025 247.94)",
+          "oklch(38% 0.0025 247.94)",
+          "oklch(49% 0.0025 247.94)",
+          "oklch(61% 0.0025 247.94)",
+          "oklch(72% 0.0025 247.94)",
+          "oklch(84% 0.0025 247.94)",
+          "oklch(95% 0.0025 247.94)"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "밝은 은색",
+        "tonalRamp": [
+          "oklch(15% 0.0053 106.50)",
+          "oklch(26% 0.0053 106.50)",
+          "oklch(38% 0.0053 106.50)",
+          "oklch(49% 0.0053 106.50)",
+          "oklch(61% 0.0053 106.50)",
+          "oklch(72% 0.0053 106.50)",
+          "oklch(84% 0.0053 106.50)",
+          "oklch(95% 0.0053 106.50)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "차분한 은색",
+        "tonalRamp": [
+          "oklch(15% 0.0043 121.58)",
+          "oklch(26% 0.0043 121.58)",
+          "oklch(38% 0.0043 121.58)",
+          "oklch(49% 0.0043 121.58)",
+          "oklch(61% 0.0043 121.58)",
+          "oklch(72% 0.0043 121.58)",
+          "oklch(84% 0.0043 121.58)",
+          "oklch(95% 0.0043 121.58)"
+        ]
+      },
+      "gold": {
+        "role": "primary",
+        "displayName": "샴페인 빛",
+        "tonalRamp": [
+          "oklch(15% 0.0579 85.51)",
+          "oklch(26% 0.0579 85.51)",
+          "oklch(38% 0.0579 85.51)",
+          "oklch(49% 0.0579 85.51)",
+          "oklch(61% 0.0579 85.51)",
+          "oklch(72% 0.0579 85.51)",
+          "oklch(84% 0.0579 85.51)",
+          "oklch(95% 0.0579 85.51)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "희미한 경계",
+        "tonalRamp": [
+          "oklch(15% 0.0022 247.89)",
+          "oklch(26% 0.0022 247.89)",
+          "oklch(38% 0.0022 247.89)",
+          "oklch(49% 0.0022 247.89)",
+          "oklch(61% 0.0022 247.89)",
+          "oklch(72% 0.0022 247.89)",
+          "oklch(84% 0.0022 247.89)",
+          "oklch(95% 0.0022 247.89)"
+        ]
+      },
+      "media": {
+        "role": "neutral",
+        "displayName": "사진 바탕",
+        "tonalRamp": [
+          "oklch(15% 0.0026 247.97)",
+          "oklch(26% 0.0026 247.97)",
+          "oklch(38% 0.0026 247.97)",
+          "oklch(49% 0.0026 247.97)",
+          "oklch(61% 0.0026 247.97)",
+          "oklch(72% 0.0026 247.97)",
+          "oklch(84% 0.0026 247.97)",
+          "oklch(95% 0.0026 247.97)"
+        ]
+      },
+      "field-stroke": {
+        "role": "neutral",
+        "displayName": "입력 경계",
+        "tonalRamp": [
+          "oklch(15% 0.0030 228.84)",
+          "oklch(26% 0.0030 228.84)",
+          "oklch(38% 0.0030 228.84)",
+          "oklch(49% 0.0030 228.84)",
+          "oklch(61% 0.0030 228.84)",
+          "oklch(72% 0.0030 228.84)",
+          "oklch(84% 0.0030 228.84)",
+          "oklch(95% 0.0030 228.84)"
+        ]
+      },
+      "action-stroke": {
+        "role": "neutral",
+        "displayName": "보조 행동 경계",
+        "tonalRamp": [
+          "oklch(15% 0.0053 134.88)",
+          "oklch(26% 0.0053 134.88)",
+          "oklch(38% 0.0053 134.88)",
+          "oklch(49% 0.0053 134.88)",
+          "oklch(61% 0.0053 134.88)",
+          "oklch(72% 0.0053 134.88)",
+          "oklch(84% 0.0053 134.88)",
+          "oklch(95% 0.0053 134.88)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "필름 타이틀",
+        "purpose": "홈의 큰 영문 FIVEGOLD 타이틀."
+      },
+      "headline": {
+        "displayName": "페이지 제목",
+        "purpose": "내부 페이지의 큰 영문 제목."
+      },
+      "headline-korean": {
+        "displayName": "한국어 장면 제목",
+        "purpose": "한국어 브랜드 설명의 큰 제목."
+      },
+      "title": {
+        "displayName": "상세 제목",
+        "purpose": "제품 상세의 영문 제목."
+      },
+      "body": {
+        "displayName": "기본 본문",
+        "purpose": "기본 한국어 본문과 제어 요소의 글꼴."
+      },
+      "body-copy": {
+        "displayName": "장면 설명",
+        "purpose": "짧은 줄 길이의 여유 있는 설명."
+      },
+      "label": {
+        "displayName": "기능성 보조 글자",
+        "purpose": "검색·정렬 라벨과 작은 기능 안내의 최소 기준."
+      },
+      "price": {
+        "displayName": "카드 가격",
+        "purpose": "같은 폭의 숫자로 정렬되는 제품 가격."
+      },
+      "product-name-mobile": {
+        "role": "Mobile product name",
+        "source": ".product-card .product-label below600px"
+      },
+      "product-meta-mobile": {
+        "role": "Mobile English product name",
+        "source": ".product-card .product-en below600px"
+      },
+      "product-price-mobile": {
+        "role": "Mobile product price",
+        "source": ".product-card .product-price below600px"
+      }
+    },
+    "shadows": [
+      {
+        "name": "navigation-dropdown",
+        "value": "0 20px 50px rgba(0,0,0,.4)",
+        "purpose": "열린 품목 드롭다운에만 적용하는 box-shadow."
+      },
+      {
+        "name": "hero-copy",
+        "value": "0 2px 14px rgba(0,0,0,.45)",
+        "purpose": "데스크톱 영상 위 글자의 text-shadow."
+      },
+      {
+        "name": "hero-copy-mobile",
+        "value": "0 2px 5px rgba(0,0,0,.8),0 0 16px rgba(0,0,0,.65)",
+        "purpose": "휴대폰 영상 위 한국어의 국소 text-shadow."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "장면·사진·대화창 전환의 공통 easing."
+      },
+      {
+        "name": "reveal",
+        "value": "clip-path 1s var(--ease),transform 1s var(--ease)",
+        "purpose": "일반 초기 아래 마스크 35%와 20px 이동, 사진 25%와 45px 이동에서 inset(-.25em)으로 표시해 글자 하단을 보존한다. IntersectionObserver threshold .12."
+      },
+      {
+        "name": "film-open",
+        "value": "1.5s var(--ease)",
+        "purpose": "영상 프레임 inset(5% 3%)에서 inset(0)까지 열린다."
+      },
+      {
+        "name": "page-cut",
+        "value": ".6s var(--ease)",
+        "purpose": "지원되는 브라우저에서 페이지 새 화면을 아래에서 연다. 이전 화면은 .2s ease로 페이드된다."
+      },
+      {
+        "name": "product-hover",
+        "value": "transform .8s var(--ease)",
+        "purpose": "제품 이미지 호버의1.04배 확대."
+      },
+      {
+        "name": "dialog-enter",
+        "value": ".4s var(--ease)",
+        "purpose": "대화창의20px 수직 진입과 불투명도 변화."
+      },
+      {
+        "name": "drawer-enter",
+        "value": ".55s var(--ease)",
+        "purpose": "오른쪽 메뉴 서랍의 수평 진입."
+      },
+      {
+        "name": "sheet-enter",
+        "value": ".4s var(--ease)",
+        "purpose": "모바일 품목 시트의 아래쪽 진입."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "영상 대신 포스터. 스크롤·마스크·애니메이션·전환을 제거하고 모든 내용을 표시."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "catalog-two-column",
+        "value": "1200px"
+      },
+      {
+        "name": "mobile-navigation",
+        "value": "960px"
+      },
+      {
+        "name": "single-column-stories",
+        "value": "600px"
+      },
+      {
+        "name": "compact-phone",
+        "value": "360px"
+      },
+      {
+        "name": "store-single-column",
+        "value": "768px"
+      }
+    ],
+    "responsivePolish": {
+      "date": "2026-10-12",
+      "storeInfoWordBreak": "keep-all",
+      "shortPhoneHero": {
+        "maxWidth": "599px",
+        "maxHeight": "700px",
+        "minHeight": "100svh"
+      },
+      "mobileSortWidth": "122px",
+      "compactSortWidth": "115px",
+      "clearSearchTarget": "44px",
+      "footerLinkMinHeight": "44px"
+    }
+  },
+  "components": [
+    {
+      "name": "밝은 채움 버튼",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "명확한 다음 행동에 사용한다. 호버와 키보드 포커스를 함께 제공한다.",
+      "html": "<button class=\"ds-button-primary\">매장 안내 <svg class=\"ds-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button>",
+      "css": ".ds-button-primary{display:inline-flex;align-items:center;justify-content:center;gap:26px;font:400 14px/1.7 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);min-height:48px;padding:15px 25px;border:1px solid var(--text,#f1f1ed);border-radius:var(--radius,3px);transition:color .2s,background .2s,border-color .2s;cursor:pointer;background:var(--text,#f1f1ed);color:var(--bg,#0c0d0e)}.ds-button-primary:hover{background:var(--gold,#cbb890);border-color:var(--gold,#cbb890)}.ds-button-primary:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}.ds-button-primary .ds-icon{width:20px;height:20px;transition:transform .3s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-button-primary:hover .ds-icon{transform:translateX(4px)}"
+    },
+    {
+      "name": "외곽선 버튼",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "여러 행동이 나란히 있는 곳에서 보조 선택에 사용한다.",
+      "html": "<button class=\"ds-button-outline\">전화 문의 <svg class=\"ds-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button>",
+      "css": ".ds-button-outline{display:inline-flex;align-items:center;justify-content:center;gap:26px;font:400 14px/1.7 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);min-height:48px;padding:15px 25px;border:1px solid var(--text,#f1f1ed);border-radius:var(--radius,3px);transition:color .2s,background .2s,border-color .2s;cursor:pointer;background:transparent;color:var(--text,#f1f1ed);border-color:var(--action-stroke,#666865)}.ds-button-outline:hover{background:var(--gold,#cbb890);border-color:var(--gold,#cbb890);color:var(--bg,#0c0d0e)}.ds-button-outline:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}.ds-button-outline .ds-icon{width:20px;height:20px;transition:transform .3s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-button-outline:hover .ds-icon{transform:translateX(4px)}"
+    },
+    {
+      "name": "아래 선 텍스트 링크",
+      "kind": "button",
+      "refersTo": "text-link",
+      "description": "사진과 설명 뒤에 다음 페이지 이동을 표시한다.",
+      "html": "<a class=\"ds-text-link\" href=\"#brand\">브랜드 보기 <svg class=\"ds-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a>",
+      "css": ".ds-text-link{display:inline-flex;align-items:center;justify-content:space-between;gap:26px;min-width:180px;min-height:48px;padding:14px 0;font:400 14px/1.7 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);color:var(--text,#f1f1ed);text-decoration:none;border-bottom:1px solid #737571;transition:color .2s,border-color .2s}.ds-text-link:hover{color:var(--gold,#cbb890);border-color:var(--gold,#cbb890)}.ds-text-link:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}.ds-text-link .ds-icon{width:20px;height:20px;transition:transform .3s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-text-link:hover .ds-icon{transform:translateX(4px)}"
+    },
+    {
+      "name": "제품 검색",
+      "kind": "input",
+      "refersTo": "search-input",
+      "description": "보이는 라벨과 하나의 윤곽 안에서 제품명을 입력한다.",
+      "html": "<label class=\"ds-search-label\" for=\"ds-product-search\">제품 검색</label><div class=\"ds-search\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><circle cx=\"10.5\" cy=\"10.5\" r=\"6.5\"/><path d=\"m16 16 4 4\"/></svg><input id=\"ds-product-search\" type=\"search\" placeholder=\"제품명 검색\"></div>",
+      "css": ".ds-search-label{display:block;font:400 12px/1.7 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);color:var(--muted,#b6b7b4);margin-bottom:9px}.ds-search{display:flex;align-items:center;gap:14px;height:50px;border:1px solid var(--field-stroke,#555758);background:var(--bg,#0c0d0e);padding-left:16px;border-radius:var(--radius,3px)}.ds-search:focus-within{border-color:var(--gold,#cbb890)}.ds-search .ds-icon{width:18px;height:18px;color:var(--muted,#b6b7b4)}.ds-search input{width:100%;min-width:0;border:0;background:transparent;color:var(--text,#f1f1ed);font:400 15px/1.7 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);height:48px;caret-color:var(--gold,#cbb890)}.ds-search input::placeholder{color:var(--muted,#b6b7b4);opacity:1}.ds-search input:focus-visible{outline:none}"
+    },
+    {
+      "name": "네이티브 정렬 선택",
+      "kind": "input",
+      "refersTo": "sort-select",
+      "description": "검색과 같은 높이의 네이티브 선택 목록이다.",
+      "html": "<label class=\"ds-select-label\" for=\"ds-product-sort\">정렬</label><div class=\"ds-select-wrap\"><select id=\"ds-product-sort\"><option>기본 정렬</option><option>가격 낮은 순</option><option>가격 높은 순</option></select><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"/></svg></div>",
+      "css": ".ds-select-label{display:block;font:400 12px/1.7 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);color:var(--muted,#b6b7b4);margin-bottom:9px}.ds-select-wrap{position:relative;width:165px}.ds-select-wrap select{width:100%;height:50px;background:var(--bg,#0c0d0e);color:var(--text,#f1f1ed);border:1px solid var(--field-stroke,#555758);border-radius:var(--radius,3px);padding:0 35px 0 15px;appearance:none;font:400 14px/1.7 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);cursor:pointer}.ds-select-wrap select:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}.ds-select-wrap .ds-icon{position:absolute;right:13px;top:17px;width:16px;height:16px;pointer-events:none}"
+    },
+    {
+      "name": "데스크톱 페이지 내비게이션",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "현재 페이지와 호버를 아래 선으로 표시한다. 모바일은 메뉴 서랍으로 바뀐다.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"주요 메뉴\"><a href=\"#brand\" aria-current=\"page\">브랜드</a><a href=\"#products\">제품</a><a href=\"#lookbook\">룩북</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:36px;font:400 14px/1.4 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif)}.ds-nav a{display:inline-flex;align-items:center;min-height:48px;position:relative;color:#dcddda;text-decoration:none}.ds-nav a:after{content:\"\";position:absolute;left:0;right:0;bottom:7px;height:1px;background:currentColor;transform:scaleX(0);transform-origin:left;transition:transform .3s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-nav a:hover,.ds-nav a[aria-current=page]{color:var(--text,#f1f1ed)}.ds-nav a:hover:after,.ds-nav a[aria-current=page]:after{transform:scaleX(1)}.ds-nav a:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}"
+    },
+    {
+      "name": "품목 필터",
+      "kind": "button",
+      "refersTo": "category-filter",
+      "description": "세로형 선택 버튼이다. 선택 상태는 알약 장식 대신 톤과 aria-pressed로 표시한다.",
+      "html": "<div class=\"ds-category-list\"><button class=\"ds-category\" aria-pressed=\"true\">전체<span>24</span></button><button class=\"ds-category\" aria-pressed=\"false\">반지<span>6</span></button></div>",
+      "css": ".ds-category-list{display:grid;gap:4px;width:170px}.ds-category{display:flex;justify-content:space-between;align-items:center;text-align:left;gap:18px;padding:13px 12px;min-height:50px;color:var(--muted,#b6b7b4);background:transparent;border:0;font:400 15px/1.7 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);border-radius:var(--radius,3px);transition:color .2s,background .2s;cursor:pointer}.ds-category:hover{color:var(--text,#f1f1ed);background:#222425}.ds-category[aria-pressed=true]{background:#272829;color:var(--text,#f1f1ed)}.ds-category:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}.ds-category span{font:400 12px var(--display,FivegoldFilm,FivegoldScreen,sans-serif);font-variant-numeric:tabular-nums;color:var(--muted,#b6b7b4)}"
+    },
+    {
+      "name": "평면 제품 카드",
+      "kind": "card",
+      "refersTo": "product-card",
+      "description": "정사각형 사진 슬롯 아래 이름·영문명·가격을 배치한다. 미리보기의 사진 슬롯은 비워 두며 실제 화면은 기존 제품 이미지를 contain 방식으로 넣는다.",
+      "html": "<button class=\"ds-product-card\" aria-label=\"제품명 상세 보기\"><span class=\"ds-card-media\" aria-hidden=\"true\"></span><span class=\"ds-card-name\">제품명 <svg class=\"ds-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span><span class=\"ds-card-en\">Product Name</span><span class=\"ds-card-price\">490,000원</span></button>",
+      "css": ".ds-product-card{display:flex;flex-direction:column;width:100%;max-width:280px;min-width:0;padding:0;text-align:left;border:0;border-radius:0;background:transparent;color:var(--text,#f1f1ed);cursor:pointer}.ds-card-media{display:block;width:100%;aspect-ratio:1;background:var(--media,#111213);overflow:hidden}.ds-card-media img{width:100%;height:100%;object-fit:contain;transition:transform .8s var(--ease,cubic-bezier(.16,1,.3,1))}.ds-product-card:hover .ds-card-media img{transform:scale(1.04)}.ds-product-card:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}.ds-card-name{width:100%;display:flex;justify-content:space-between;align-items:start;gap:12px;margin-top:18px;font:400 15px/1.5 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif)}.ds-card-name .ds-icon{width:17px;height:17px;margin-top:2px;color:var(--muted,#b6b7b4)}.ds-card-en{font:400 15px/1.4 var(--display,FivegoldFilm,FivegoldScreen,sans-serif);color:var(--muted,#b6b7b4);margin-top:5px}.ds-card-price{font:500 15px/1.4 var(--display,FivegoldFilm,FivegoldScreen,sans-serif);letter-spacing:.01em;font-variant-numeric:tabular-nums;margin-top:auto;padding-top:15px}"
+    },
+    {
+      "name": "페이지 이동",
+      "kind": "button",
+      "refersTo": "pagination",
+      "description": "44px 이상 제어 요소로 현재 페이지를 밝은 채움으로 표시한다.",
+      "html": "<nav class=\"ds-pagination\" aria-label=\"제품 페이지\"><button aria-current=\"page\">1</button><button>2</button></nav>",
+      "css": ".ds-pagination{display:flex;align-items:center;justify-content:center;gap:8px}.ds-pagination button{min-width:44px;min-height:44px;display:grid;place-items:center;border:0;border-radius:var(--radius,3px);font:500 14px var(--display,FivegoldFilm,FivegoldScreen,sans-serif);padding:0 12px;background:transparent;color:var(--muted,#b6b7b4);cursor:pointer}.ds-pagination button:hover{background:var(--surface,#191a1b);color:var(--text,#f1f1ed)}.ds-pagination button[aria-current=page]{background:var(--text,#f1f1ed);color:var(--bg,#0c0d0e)}.ds-pagination button:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}.ds-pagination button:disabled{opacity:.4;cursor:default}"
+    },
+    {
+      "name": "일반 대화창 표면",
+      "kind": "custom",
+      "refersTo": "dialog",
+      "description": "네이티브 대화창의 그래파이트 표면과 닫기 제어 요소. 동작은 실제 화면의 dialog와 스크립트가 제공한다.",
+      "html": "<section class=\"ds-dialog\" role=\"dialog\" aria-modal=\"false\" aria-labelledby=\"ds-dialog-title\"><button class=\"ds-dialog-close\" aria-label=\"닫기\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"m6 6 12 12M18 6 6 18\"/></svg></button><h2 id=\"ds-dialog-title\">안내</h2><p>내용을 명확하게 읽고 다음 행동을 선택합니다.</p></section>",
+      "css": ".ds-dialog{position:relative;background:var(--surface,#191a1b);color:var(--text,#f1f1ed);border-radius:var(--radius,3px);padding:75px 38px 40px;max-width:520px}.ds-dialog h2{margin:0;font:500 28px/1.3 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif)}.ds-dialog p{font:400 16px/1.8 var(--font,FivegoldScreen,'Malgun Gothic',sans-serif);color:var(--muted,#b6b7b4);margin:24px 0 0}.ds-dialog-close{width:44px;height:44px;display:grid;place-items:center;position:absolute;right:16px;top:16px;background:rgba(12,13,14,.88);color:var(--text,#f1f1ed);border:0;border-radius:var(--radius,3px);cursor:pointer}.ds-dialog-close .ds-icon{width:20px;height:20px}.ds-dialog-close:focus-visible{outline:2px solid var(--gold,#cbb890);outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "주얼리 필름의 컷",
+    "overview": "주얼리 필름의 컷은 금속의 반사, 제품의 형태, 착용 장면, 공간을 서로 다른 크기의 이미지와 큰 산세리프 글자로 연결한다. 사용자가 선택한 시네마틱 럭셔리 방향은 어두운 바탕, 절제된 화면 장치, 넓은 사진과 강한 화면 전환으로 구현되어 있다.\n\n화보 영역은 비대칭 배치와 여백으로 장면의 호흡을 만든다. 제품 탐색 영역은 사진과 이름·가격을 명확하게 정렬하고 검색·정렬·품목 선택을 같은 위치에서 제공한다. 큰 연출과 작은 조작 요소가 각자의 역할을 유지하며, 한국어는 읽기 좋은 산세리프 글꼴로 표현한다.",
+    "keyCharacteristics": [
+      "넓은 영상·사진과 큰 영문 타이틀의 크기 대비",
+      "사진의 비대칭 배치와 직선적인 프레임",
+      "밝은 은색 본문과 차분한 샴페인색 상호작용",
+      "동작 줄이기 설정과 키보드 탐색을 함께 지원"
+    ],
+    "rules": [
+      {
+        "name": "The Metal Light Rule",
+        "body": "샴페인색은 포커스와 상호작용의 강조에 사용한다. 사진 속 금속 자체가 시각적 중심을 이루도록 큰 면적의 금색 장식은 추가하지 않는다.",
+        "section": "colors"
+      },
+      {
+        "name": "The Readable Control Rule",
+        "body": "가격·품목 수·탐색 안내 등 기능을 전달하는 작은 글자는 12px 이상으로 유지한다. 큰 타이틀의 자간을 본문과 제어 요소에 일괄 적용하지 않는다.",
+        "section": "typography"
+      },
+      {
+        "name": "The Tonal Surface Rule",
+        "body": "사진과 제품 카드는 그림자로 띄우지 않는다. 탐색 드롭다운만 주변 화면 위에 놓이는 그림자를 사용한다.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do 큰 영상·사진과 타이틀의 대비를 유지하고, 한국어 본문에는 FivegoldScreen을 사용한다.",
+      "Do 사진 영역은 직선 프레임으로 구성하고, 제품 이미지는 잘리지 않도록 contain 배치를 유지한다.",
+      "Do 호버와 키보드 포커스가 모두 보이도록 만들고, 기능성 작은 글자는 12px 이상으로 유지한다.",
+      "Do 휴대폰에서는 검색·정렬·가격을 읽을 수 있게 유지하면서 화보와 상세 정보를 한 열로 재배치한다.",
+      "Do 운영체제의 동작 줄이기 설정에서는 영상 대신 포스터를 보여 주고 전환·마스킹을 제거한다."
+    ],
+    "donts": [
+      "Don't 기존의 큰 세리프 타이틀 반복으로 되돌리거나 불필요한 금색 장식 테두리를 추가한다.",
+      "Don't 사진마다 그림자·둥근 카드·배지를 덧붙여 제품의 형태를 가린다.",
+      "Don't HIGH-END JEWELRY를 모든 섹션의 공통 머리말 패턴으로 확장한다.",
+      "Don't 화면 전환을 이유로 스크롤을 가로채거나 동작이 없으면 콘텐츠가 숨도록 만든다."
+    ]
+  }
+}

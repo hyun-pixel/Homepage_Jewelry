@@ -1,0 +1,318 @@
+{
+  "images": [
+    {
+      "name": "hero-poster",
+      "filename": "hero-poster.png",
+      "summary": "유기적인 곡선의 볼드 골드 반지와 작은 샴페인 보석을 근접 촬영한 히어로",
+      "prompt": "Use case: product-mockup. Asset type: ultra-premium luxury jewelry website hero poster, cinematic wide landscape 16:9 composition. Primary request: an extreme macro photographic portrait of an exquisite sculptural yellow-gold ring, jewelry metal and craftsmanship are the hero. Scene: deep nearly black studio void with a discreet black satin base. Subject: one bold polished 18k-style yellow-gold ring with flowing organic folded curves and a very small flush-set champagne gemstone accent; visible genuine fine gold texture and flawless realistic bevels. Composition: camera very close, ring in lower-right half at an oblique angle, part of curved ring extends out of frame; huge clean dark negative space over center-left for website headline. Lighting: razor-thin warm champagne softbox reflections along sculpted surfaces, dramatic warm gold rim light, subdued shadows, a few realistic pinprick highlights, luxurious and cinematic, never a sparkle overlay. Medium: physically plausible high-end editorial macro jewelry photograph, shallow depth of field, 100mm macro lens. Palette: warm yellow gold, champagne light, near-black background. Constraints: no people, no typography, no logo, no watermark, no signage, no text. Avoid: coins, gold bars, gaudy glitter, orange plastic, surreal geometry, gems arranged as a crown, multiple products. Render landscape image.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/hero-poster.webp"
+    },
+    {
+      "name": "ring-01",
+      "filename": "ring-01.png",
+      "summary": "접힌 물결 곡선과 작은 샴페인 보석이 있는 넓은 골드 밴드",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one bold flowing sculptural yellow-gold ring, a continuous folded wave of gold forming a wide band, a tiny flush-set champagne diamond accent in one side, photographed standing upright three-quarter view. One product only, clean wearable geometry.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/ring-01.webp"
+    },
+    {
+      "name": "necklace-01",
+      "filename": "necklace-01.png",
+      "summary": "가는 체인과 작은 보석이 담긴 물방울 펜던트",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold necklace laid in a neat elongated oval with a fine curb-link chain and one fluid teardrop gold pendant with a very small flush-set champagne diamond. Entire necklace visible including chain, no other products. Elegant simple composition.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/necklace-01.webp"
+    },
+    {
+      "name": "earrings-01",
+      "filename": "earrings-01.png",
+      "summary": "유려한 물결 곡선의 볼드 골드 후프 한 쌍",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one matched pair of medium yellow-gold hoop earrings, sculpted flowing wave hoops with substantial smooth surfaces and discreet small hinges. Pair symmetrically positioned, entire two earrings visible, no additional products. Fine wearable jewelry.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/earrings-01.webp"
+    },
+    {
+      "name": "bracelet-01",
+      "filename": "bracelet-01.png",
+      "summary": "접힌 유기적 곡선의 오픈 커프",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one bold yellow-gold cuff bracelet with fluid organic folded curves, open-ended oval shape, polished exterior and fine satin inner detailing. Three-quarter view at slight elevation, complete wearable bracelet visible. No other products.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/bracelet-01.webp"
+    },
+    {
+      "name": "ring-02",
+      "filename": "ring-02.png",
+      "summary": "서로 얽힌 두 개의 매끈한 골드 라인이 만드는 인터레이스 링",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold ring made of two thick smoothly interlaced curved bands, an elegant open sculptural crossover design, entirely plain gold, no gemstones; upright three-quarter view. Wearable plausible geometry.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/ring-02.webp"
+    },
+    {
+      "name": "ring-03",
+      "filename": "ring-03.png",
+      "summary": "둥근 직사각 면과 무광 결을 가진 골드 시그넷 링",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold signet ring with a softly rounded rectangular face, subtle fine-brushed face and polished thick shoulders, no engraving, no symbols, no letters, no gemstones; upright three-quarter view.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/ring-03.webp"
+    },
+    {
+      "name": "ring-04",
+      "filename": "ring-04.png",
+      "summary": "정교한 밧줄 꼬임 질감의 슬림 골드 링",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one delicate yellow-gold rope-twist band ring, two slender polished gold strands tightly twisted in a continuous loop with perfectly crafted repeating contours, no gemstones; upright three-quarter view.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/ring-04.webp"
+    },
+    {
+      "name": "ring-05",
+      "filename": "ring-05.png",
+      "summary": "작은 투명 보석을 베젤로 감싼 부드러운 골드 링",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold ring, slim rounded gold band holding one small clear oval champagne-tinted gemstone inside a smooth low bezel setting, understated grown-up elegance, not a large engagement diamond; upright three-quarter view.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/ring-05.webp"
+    },
+    {
+      "name": "ring-06",
+      "filename": "ring-06.png",
+      "summary": "매끈한 표면과 섬세한 골이 대비되는 골드 돔 링",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold dome ring, broad gentle rounded domed band with five very shallow fine parallel architectural grooves along one edge, polished central surface, no gemstones, no text; upright three-quarter view.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/ring-06.webp"
+    },
+    {
+      "name": "necklace-02",
+      "filename": "necklace-02.png",
+      "summary": "미세한 골이 있는 원형 메달리온과 가는 골드 체인",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold necklace laid in a neat long oval, fine cable-link chain holding one circular medallion pendant with very fine radial sunray grooves and a softly brushed plain circular center, absolutely no engraving or text, no gemstones. Entire necklace and clasp visible.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/necklace-02.webp"
+    },
+    {
+      "name": "necklace-03",
+      "filename": "necklace-03.png",
+      "summary": "빈 공간이 있는 유기적 타원 펜던트와 골드 체인",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold necklace laid in a neat oval, fine simple chain holding a sculptural irregular oval open-loop pendant with flowing melted-looking contours, polished substantial gold, no gemstones. Entire necklace and clasp visible.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/necklace-03.webp"
+    },
+    {
+      "name": "necklace-04",
+      "filename": "necklace-04.png",
+      "summary": "비대칭 물결 바를 담은 가는 골드 목걸이",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one elegant yellow-gold necklace laid in a neat oval, delicate cable chain with a horizontal asymmetric wave-shaped gold bar at its center, smoothly polished and gently curved like a gold brushstroke, no gemstones. Entire necklace and clasp visible.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/necklace-04.webp"
+    },
+    {
+      "name": "necklace-05",
+      "filename": "necklace-05.png",
+      "summary": "작은 투명 보석 하나를 낮은 베젤로 감싼 목걸이",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one delicate yellow-gold necklace laid in a neat oval, fine chain with one small round champagne-tinted clear gemstone inside a minimal smooth low round bezel pendant. Understated luxury, very small natural stone accent. Entire necklace and clasp visible.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/necklace-05.webp"
+    },
+    {
+      "name": "necklace-06",
+      "filename": "necklace-06.png",
+      "summary": "고리 크기가 점차 달라지는 골드 링크 목걸이",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold necklace laid in a neat oval, substantial modern polished rounded oval chain links gradually larger toward front, elegant sculptural statement chain with a seamless clasp, no pendant and no gemstones. Entire necklace visible.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/necklace-06.webp"
+    },
+    {
+      "name": "earrings-02",
+      "filename": "earrings-02.png",
+      "summary": "작은 물방울 모양 골드 스터드 한 쌍",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one matching pair of yellow-gold teardrop stud earrings, smooth small domed droplets, softly brushed front with polished rounded edges, arranged symmetrically to show both fronts, discreet realistic posts partially visible behind, no gemstones.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/earrings-02.webp"
+    },
+    {
+      "name": "earrings-03",
+      "filename": "earrings-03.png",
+      "summary": "골드 원형 링크 두 개가 이어진 드롭 이어링 한 쌍",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one matching pair of yellow-gold drop earrings, each consists of two elegantly linked elongated oval open loops, smaller upper stud and larger lower drop, polished substantial rounded gold, symmetrically arranged, no gemstones.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/earrings-03.webp"
+    },
+    {
+      "name": "earrings-04",
+      "filename": "earrings-04.png",
+      "summary": "잔잔한 세로 골이 있는 볼드 골드 후프 한 쌍",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one matching pair of yellow-gold thick rounded hoop earrings, understated vertical fluted surface texture around each hoop, small plausible posts and closures, polished edge details, arranged symmetrically upright, no gemstones.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/earrings-04.webp"
+    },
+    {
+      "name": "earrings-05",
+      "filename": "earrings-05.png",
+      "summary": "작은 라운드 보석을 골드 베젤로 감싼 스터드 한 쌍",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one matching pair of small yellow-gold stud earrings, each a petite round clear champagne-tinted gemstone enclosed in a smooth low circular gold bezel, minimalist sophisticated jewelry, symmetric arrangement showing two faces and discreet posts behind.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/earrings-05.webp"
+    },
+    {
+      "name": "earrings-06",
+      "filename": "earrings-06.png",
+      "summary": "길고 유려한 골드 리본 곡선의 드롭 이어링 한 쌍",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one matching pair of yellow-gold long ribbon drop earrings, each an elegant gently twisting narrow folded gold strip descending from a small rounded stud, organic wavy contours, polished outer edges and soft brushed inner plane, no gemstones, symmetric composition.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/earrings-06.webp"
+    },
+    {
+      "name": "bracelet-02",
+      "filename": "bracelet-02.png",
+      "summary": "넓고 둥근 타원 링크가 연결된 골드 체인 팔찌",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold chain bracelet arranged as a neat oval, bold smooth polished rounded elongated oval links and one discrete clasp, each link physically connected, understated contemporary luxury, no gemstones, three-quarter top view.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/bracelet-02.webp"
+    },
+    {
+      "name": "bracelet-03",
+      "filename": "bracelet-03.png",
+      "summary": "잔잔한 세로 골이 있는 단정한 골드 뱅글",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold closed oval bangle bracelet with a substantial softly rounded band, delicate parallel fluted grooves on its exterior, polished edges and subtle concealed hinge, no lettering or screws, no gemstones, three-quarter angle.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/bracelet-03.webp"
+    },
+    {
+      "name": "bracelet-04",
+      "filename": "bracelet-04.png",
+      "summary": "작은 보석 하나를 중심에 넣은 가는 골드 체인 팔찌",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one delicate yellow-gold chain bracelet arranged as a neat oval, fine cable chain with one tiny round clear champagne-tinted gemstone inside a smooth gold bezel at the front, discreet clasp at back, elegant sophisticated subtle design, three-quarter top view.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/bracelet-04.webp"
+    },
+    {
+      "name": "bracelet-05",
+      "filename": "bracelet-05.png",
+      "summary": "두 가닥을 꼬아 만든 골드 로프 커프",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold open oval cuff bracelet made of two thick smoothly twisted rope-like strands, elegantly curved continuous twists, rounded smooth ends, polished yellow gold surfaces, no gemstones, three-quarter view.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/bracelet-05.webp"
+    },
+    {
+      "name": "bracelet-06",
+      "filename": "bracelet-06.png",
+      "summary": "매끈한 표면과 무광 면이 대비되는 넓은 골드 커프",
+      "prompt": "Use case: product-mockup. Asset type: square product catalog image for a sophisticated luxury jewelry brand. Photorealistic premium studio jewelry photograph, physically plausible real fine yellow-gold metal, polished and softly brushed detailing, no fake plastic shine. Deep nearly black charcoal seamless background, subtle satin-black ground, a single warm champagne softbox reflection plus restrained gold rim light, realistic soft shadows. Composition: product centered with generous negative space around every edge, product occupies about 55% of square, perfectly sharp product details. Audience: elegant adults aged 30–50. No typography, no logo, no watermark, no labels, no props, no packaging, no people, no glitter overlay, no hands. Produce one square image. Subject: exactly one yellow-gold wide open cuff bracelet with gently tapering smooth architectural curves, exterior divided into one polished plane and one softly brushed plane by a fine raised sweeping diagonal ridge, rounded edges, no gemstones, no engraving, three-quarter view.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/bracelet-06.webp"
+    },
+    {
+      "name": "lookbook-01",
+      "filename": "lookbook-01.png",
+      "summary": "검정 의상과 조형적 골드 후프·펜던트를 착용한 성인 모델 화보",
+      "prompt": "Use case: photorealistic-natural. Asset type: luxury jewelry editorial lookbook photograph, portrait 4:5 composition for an elegant Korean gold jewelry concept brand. A completely fictional generated adult East Asian woman aged approximately 38, graceful poised expression, naturally textured skin, dark hair neatly pulled back, wearing a sophisticated matte black sleeveless high-neck evening dress. Scene: deep charcoal-black studio background. Subject: beautiful sculptural polished yellow-gold wave hoop earrings and a fine yellow-gold necklace with a small fluid teardrop pendant, tasteful no oversized diamonds. Composition: close portrait from forehead to upper torso, slightly turned three-quarter pose, one natural hand lightly near her neckline, face and jewelry both sharp, generous dark framing. Lighting: cinematic warm champagne side light with softly sculpted shadows, fine realistic gold reflections, restrained elegance and confident maturity. Physically plausible jewelry construction, natural facial proportions and natural hand anatomy. No text, no logos, no watermark, no extra fingers, no duplicated earrings, no floating jewelry. Photograph should look like a real premium fashion editorial captured on 85mm portrait lens, not a CGI model. Portrait format.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/lookbook-01.webp"
+    },
+    {
+      "name": "lookbook-02",
+      "filename": "lookbook-02.png",
+      "summary": "골드 물결 반지와 커프를 착용한 손·손목 디테일 화보",
+      "prompt": "Use case: photorealistic-natural. Asset type: luxury gold jewelry editorial detail lookbook photograph, portrait 4:5 composition. Scene: matte black studio background and black silk fabric. Subject: graceful hands and wrists of a completely fictional generated adult woman in her late thirties with natural warm skin texture and neutral manicure, wearing one bold polished yellow-gold flowing wave band ring and one wide yellow-gold sculptural open cuff bracelet with polished and fine brushed detailing. Composition: two relaxed hands gently overlapping near the center, upper torso edge cropped out, hands diagonally arranged, jewelry prominent and perfectly sharp, complete natural fingers where visible, arms enter composition normally, ample dark space. Styling: elegant black silk sleeve or fabric draped beside wrist, no distracting clothing patterns. Lighting: warm champagne editorial side light, strong dark shadows, jewelry glows naturally with physically plausible reflections. Medium: photorealistic premium macro fashion jewelry photograph, 100mm lens. Constraints: no face, no typography, no logos, no watermark, no extra digits, no fused fingers, no duplicated rings, no gemstones, no glitter effects. Portrait format.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/lookbook-02.webp"
+    },
+    {
+      "name": "showroom",
+      "filename": "showroom.png",
+      "summary": "검정 석재와 샴페인 골드 디테일의 고급 주얼리 쇼룸 콘셉트",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide landscape 16:9 luxury jewelry showroom concept image for website store section, fictional interior concept. An exquisite contemporary boutique interior using charcoal black marble, warm champagne gold metal, soft ivory stone and bronze tinted glass. Several low glass jewelry display cases containing discreet small yellow-gold jewelry on black velvet stands, one curved central display island in dark stone with brushed gold trim, tall subtly fluted walls, architectural warm recessed ceiling lights, soft golden indirect lighting, restrained sculptural detail, premium quiet luxury. Viewpoint: wide eye-level photograph from the entrance looking toward back wall, believable boutique proportions and realistic construction. Composition: clean symmetrical perspective with inviting depth, no shoppers or staff, no readable signage. Lighting: warm editorial interior photography, realistic luminous glass reflections and clean exposure, no excessive glitter. Materials should look physically realistic and sophisticated, never CGI showroom. No people, no typography, no logo, no watermark, no fabricated signage. Landscape format.",
+      "mode": "built-in ImageGen",
+      "visual_qa": "pass",
+      "concept_only": true,
+      "websiteFile": "dist/assets/showroom.webp"
+    }
+  ],
+  "video": {
+    "provider": "Higgsfield",
+    "model": "seedance_2_5",
+    "jobId": "98b4298f-7a12-4970-9a6a-67ec2e1530f6",
+    "filename": "dist/assets/hero.mp4",
+    "approvedCredits": 56,
+    "requestedDurationSeconds": 8,
+    "actualDurationSeconds": 8.064,
+    "dimensions": [
+      1280,
+      720
+    ],
+    "mutedOnWebsite": true,
+    "prompt": "Cinematic luxury jewelry macro film for FIVEGOLD website hero, photorealistic 16:9. A sculptural polished yellow-gold ring and an intricately woven yellow-gold bracelet rest on deep black stone. Camera performs a very slow, graceful lateral macro glide; warm champagne-gold specular light gently travels across exact metal contours revealing fine realistic engraving and natural micro-texture. Background nearly black with soft depth of field, central upper area remains dark and uncluttered for website text overlay. Extraordinary elegant high-end jewelry advertising cinematography, no humans, no brand logos, no letters, no text, no watermark, no added objects, no particle effects. Jewelry remains rigid and identical, no melting or deformation. First and final frame should be closely matched for a smooth repeating loop. Silent footage, no sound, subtle motion, premium controlled lighting.",
+    "websiteFile": "dist/assets/hero-sharp.mp4",
+    "localDerivative": {
+      "sourceFile": "dist/assets/hero.mp4",
+      "servedFile": "dist/assets/hero-sharp.mp4",
+      "sourceDimensions": [
+        1280,
+        720
+      ],
+      "servedDimensions": [
+        1920,
+        1080
+      ],
+      "processing": "Lanczos resizing plus mild edge sharpening; no AI regeneration",
+      "sourceSha256": "bac247318bf2884b83ad82d1f8e75b163194982a4626b8b8a72549539d743362",
+      "sourcePreserved": true,
+      "additionalPaidGenerations": 0,
+      "bytes": 4291555,
+      "duration": 8.04
+    }
+  }
+}

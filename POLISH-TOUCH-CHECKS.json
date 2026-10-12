@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-12",
+  "passed": true,
+  "engine": "Chrome with isMobile/hasTouch emulation; synthesized touch, not a physical phone",
+  "viewport": {
+    "width": 320,
+    "height": 568
+  },
+  "checks": [
+    "Menu open/close via tap",
+    "Category selection via tap",
+    "Product detail and zoom via tap",
+    "Clear-search target 44x44 and tap",
+    "Local selfhosted fonts loaded"
+  ],
+  "errors": []
+}
