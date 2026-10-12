@@ -2,6 +2,7 @@
 /*
 !/.gitignore
 !/.gitattributes
+!/vercel.json
 !/ASSET-PROMPTS.json
 !/CINEMATIC-CHECKS.json
 !/CINEMATIC-FINISH-REVIEW.md

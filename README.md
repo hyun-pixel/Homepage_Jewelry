@@ -33,7 +33,7 @@
 
 실제 판매 제품 사진·이름·소재·사양·가격, 공식 브랜드 소개와 로고, 매장 주소·영업시간·전화번호·카카오톡 채널 주소를 전달해 주세요. 사용자가 코드를 직접 수정할 필요는 없습니다.
 
-매장과 헤더의 문의 버튼은 현재 안내창을 표시하며 실제 연락을 발신하지 않습니다. 지도도 실제 주소 확인 후 연결합니다. 회원가입·장바구니·결제·관리자·문의 양식·개인정보 수집 기능은 포함하지 않습니다. 검색 노출 방지용 noindex 설정이 유지되며, 온라인 공개는 진행하지 않았습니다.
+매장과 헤더의 문의 버튼은 현재 안내창을 표시하며 실제 연락을 발신하지 않습니다. 지도도 실제 주소 확인 후 연결합니다. 회원가입·장바구니·결제·관리자·문의 양식·개인정보 수집 기능은 포함하지 않습니다. 검색 노출 방지용 noindex 설정을 유지합니다.
 
 ## 포함 파일과 확인 결과
 
@@ -56,7 +56,7 @@
 
 글꼴 두 개는 SIL Open Font License에 따라 웹용으로 추리고 이름을 변경했습니다. 라이선스와 저작권 고지는 assets/licenses에 있습니다. Wanted Sans는 한글 완성형과 자모를 지원하여 제품 검색에서 임의의 한글도 표시합니다. 원본: [Wanted Sans](https://github.com/wanteddev/wanted-sans), [Manrope](https://github.com/googlefonts/manrope).
 
-Git 원격 저장소는 [hyun-pixel/Homepage_Jewelry](https://github.com/hyun-pixel/Homepage_Jewelry)이며 기본 브랜치는 main입니다. 이전 검토 기록의 Git 미연결·푸시 미실행 상태는 각 검토 당시의 상태입니다. 최신 커밋은 GitHub 기록으로 확인할 수 있습니다. 호스팅과 도메인은 연결하지 않았으며 공개 승인과 서비스 선택 시 비용을 안내합니다. 이전 화면·문서는 작업 폴더의 work/cinematic-v7-before와 v6 ZIP에 보관했습니다.
+Git 원격 저장소는 [hyun-pixel/Homepage_Jewelry](https://github.com/hyun-pixel/Homepage_Jewelry)이며 기본 브랜치는 main입니다. 이전 검토 기록의 Git 미연결·푸시 미실행 상태는 각 검토 당시의 상태입니다. 최신 커밋은 GitHub 기록으로 확인할 수 있습니다. Vercel 사이트 주소는 [homepagejewelry.vercel.app](https://homepagejewelry.vercel.app/)입니다. 이전 화면·문서는 원래 작업 폴더의 work/cinematic-v7-before와 v6 ZIP에 보관했습니다.
 
 ## v8 가독성 보완
 
@@ -64,4 +64,14 @@ Git 원격 저장소는 [hyun-pixel/Homepage_Jewelry](https://github.com/hyun-pi
 
 ## 저장소 구성
 
-실행 파일은 dist 폴더에 있습니다. 소스를 받으면 dist/index.html을 열어 확인할 수 있습니다. 비밀정보·도구 설치 파일·원본 PNG·사용하지 않는 이전 글꼴은 커밋 대상에서 제외했습니다. GitHub 저장소에 보관하는 것과 웹사이트 호스팅은 별개의 작업이며, 온라인 배포는 아직 진행하지 않았습니다.
+실행 파일은 dist 폴더에 있습니다. 소스를 받으면 dist/index.html을 열어 확인할 수 있습니다. 비밀정보·도구 설치 파일·원본 PNG·사용하지 않는 이전 글꼴은 커밋 대상에서 제외했습니다. Vercel의 배포 폴더는 저장소의 vercel.json에서 지정합니다.
+
+## Vercel 배포 설정
+
+홈페이지는 별도의 설치나 빌드가 필요 없는 정적 사이트입니다. vercel.json은 프레임워크 자동 감지를 끄고, 설치·빌드 명령 없이 dist 폴더를 배포합니다. 첫 파일은 dist/index.html이며 배포 후 기본 주소의 /에서 열립니다. 브랜드·제품·룩북·매장 안내의 HTML과 이미지·영상·글꼴도 이 폴더 안에서 함께 제공됩니다.
+
+Vercel 프로젝트의 Root Directory는 저장소 최상위(빈 값 또는 .)를 사용합니다. 대시보드에서 설정을 확인할 경우 프로젝트 → Settings → Build and Deployment에서 Framework Preset은 Other, Output Directory는 dist입니다. 기존 Git 연결에서는 main에 반영한 설정을 다음 배포에서 읽습니다.
+
+최상위 폴더에는 index.html이 없으므로 dist를 지정하지 않으면 기본 주소가 404가 될 수 있습니다. 다른 페이지를 모두 홈으로 보내는 우회 규칙은 추가하지 않았습니다.
+
+공식 설정 문서: [Vercel project configuration](https://vercel.com/docs/project-configuration/vercel-json).
